@@ -1,4 +1,10 @@
-### Hi there 👋
+ Hi there 👋 My name is Pedro Henrique Lima Chaves
+ 
+ - 🔭 I’m currently working on some projects with JavaScript.
+ - 🌱 I’m currently learning Python, JavaScript and React.
+ - ⚡ Fun fact: I dit a year of physics at UFJF.
+ - 📫 How to reach me: e-mail pedrochaves30@gmail.com
+ - :page_with_curl: Go check my Linkedin account https://www.linkedin.com/in/pedro-chaves-bb9583184/
 
 <!--
 **PedroChavess/PedroChavess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
